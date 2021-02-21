@@ -1,0 +1,5 @@
+--------------------
+ANGULAR CLI
+--------------------
+- ng g c component-name --skip-tests
+The --skip-tests prevents CLI from generating spec files.
